@@ -6,3 +6,5 @@
 * The Online Retail.xlsx and Online Retail.csv are the dataset files in two different formats.
 
 * The association_rules.csv is the file created from inside our code containing the association pairs that can be recommended together. 
+
+* Link to the (project repo)[https://github.com/MuhammedUmerNazir/online_retail_analysis]
